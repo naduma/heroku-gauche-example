@@ -1,0 +1,1 @@
+web: gosh simple-bbs.scm -p $PORT
